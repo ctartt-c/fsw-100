@@ -1,0 +1,73 @@
+/* html, body {
+    margin: 0;
+    padding: 0;
+    
+} */
+
+.nav-bar {
+    position: fixed;
+    width: 100%;
+    margin: -14px;
+    background-color: rgb(55,44,22,.9);
+    color: white;
+    height: 41px;
+}
+.about {
+    position: relative;
+    left: 40em;
+   
+}
+.menu {
+    position: relative;
+    left: 85em;
+}
+
+.menu:hover {
+  color:blue;
+}
+
+.about:hover{
+  color:red;
+}
+
+
+.div0 {
+    background-color: lightgreen;
+    width: 700px;
+    border: 15px solid  rgba(101,50,101, 0.3);
+    padding: 15px;
+    margin: 20px 300px;
+  
+}
+
+
+    .div2 {
+        background-color: lightgreen;
+        width: 700px;
+        border: 15px solid  rgba(101,50,101, 0.3);
+        padding: 15px;
+        margin: 20px 300px;
+       
+    }
+    .div3{
+        background-color: lightgreen;
+        width: 700px;
+        border: 15px solid  rgba(101,50,101, 0.3);
+        padding: 15px;
+        margin: 20px 300px;
+       
+    }
+    .div4{
+        background-color: lightgreen;
+        width: 700px;
+        border: 15px solid  rgba(101,50,101, 0.3);
+        padding: 15px;
+        margin: 20px 300px;
+        
+    }
+
+
+    
+  
+  img{float:left;
+  padding:15px;}
