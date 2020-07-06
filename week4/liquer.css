@@ -47,15 +47,13 @@ padding: 1em;
   }
   .footer {
     grid-column: 1/4;
-grid-row: 9;
+grid-row: 9;}
 footer {
   margin-top: 2rem;
-  /* background: var(--dark);
-  color: var(--light); */
   text-align: center;
   padding: 1rem;
 }
-  }
+  
   .nav-bar {
     position: fixed;
     width: 100%;
